@@ -3,7 +3,7 @@
 ### Deploying Python Flask Rest Application to Kubernetes
 * In this series we would take a simple python flask Application with the architecture as shown below
 ![Preview](./Images/dk.png)
-* The code of this application is hosted over [Refer Here](https://github.com/codesquareZone/DevProjectsForDevOps-StudentCoursesRestAPI)
+* The code of this application is hosted over [Refer Here](https://github.com/DevProjectForDevOps/StudentCoursesRestAPI)
 
 #### Understanding Application Execution
 * Before we build the docker image for this application, lets understand the steps for executing this application.
